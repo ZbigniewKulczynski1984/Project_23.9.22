@@ -42,8 +42,17 @@
 // document.body.appendChild(ulList)
 // ulList.appendChild(liItem)
 
-const testDiv = document.querySelector('div')
+// const testDiv = document.querySelector('div')
 
-const paragraph = document.createElement('p')
-testDiv.appendChild(paragraph)
-paragraph.textContent = 'Lorem ipsum'
+// const paragraph = document.createElement('p')
+// testDiv.appendChild(paragraph)
+// paragraph.textContent = 'Lorem ipsum'
+
+// const div = document.querySelector('div')
+// const p = document.createElement('p')
+// const headingTwo = document.createElement('h2')
+
+// div.appendChild(p)
+// div.appendChild(headingTwo)
+
+// div.append(p, headingTwo)
