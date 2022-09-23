@@ -22,3 +22,15 @@ console.log(liItem)
 //żywe kolekcje
 const newLi = document.createElement('li')
 ulList.appendChild(newLi).textContent = '👀'
+
+const heading = document.getElementsByTagName('h2')
+console.log(heading)
+
+const paragraphs = document.querySelectorAll('p')
+console.log(paragraphs)
+
+const testDiv = document.querySelector('.test')
+console.log(testDiv)
+
+const paragraph2 = testDiv.querySelector('#test')
+console.log(paragraph)
