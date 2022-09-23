@@ -48,6 +48,8 @@
 // testDiv.appendChild(paragraph)
 // paragraph.textContent = 'Lorem ipsum'
 
+//------------------------------------------
+
 // const div = document.querySelector('div')
 // const p = document.createElement('p')
 // const headingTwo = document.createElement('h2')
@@ -56,3 +58,9 @@
 // div.appendChild(headingTwo)
 
 // div.append(p, headingTwo)
+
+//-------------------------------------------
+
+// const btn = document.querySelector('button')
+// console.log(btn.outerHTML)
+// console.log(btn.innerHTML)
