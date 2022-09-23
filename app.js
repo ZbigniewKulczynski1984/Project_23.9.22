@@ -20,3 +20,5 @@ const liItem = ulList.querySelector('li')
 console.log(liItem)
 
 //żywe kolekcje
+const newLi = document.createElement('li')
+ulList.appendChild(newLi).textContent = '👀'
