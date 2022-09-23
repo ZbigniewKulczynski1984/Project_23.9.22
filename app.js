@@ -64,3 +64,13 @@
 // const btn = document.querySelector('button')
 // console.log(btn.outerHTML)
 // console.log(btn.innerHTML)
+
+//--------------------------------------------
+
+// const div = document.querySelector('div')
+// const p = document.createElement('p')
+
+// div.removeChild(p)
+
+// p.remove()
+// div.remove()
