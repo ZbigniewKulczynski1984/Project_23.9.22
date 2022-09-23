@@ -74,3 +74,31 @@
 
 // p.remove()
 // div.remove()
+
+//-----------------------------------------------
+
+// const btn1 = document.querySelector('.btn-1')
+// const btn2 = document.querySelector('.btn-2')
+// const btn3 = document.querySelector('.btn-3')
+
+// btn1.addEventListener('click', () => {
+//     console.log('Kliknięto mnie!!!')
+// })
+
+// btn2.addEventListener('mouseover', () => {
+//     console.log('Najechano na mnie!!!')
+// })
+
+// btn3.addEventListener('dblclick', () => {
+//     console.log('Kliknięto mnie dwa razy!!!')
+// })
+
+// const test = () => {
+//     console.log('click', test)
+// }
+
+// btn3.addEventListener('dblclick', test)
+
+
+
+//-------------------------------------------------
